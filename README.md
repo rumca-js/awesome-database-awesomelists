@@ -2,6 +2,8 @@
 
 A curated, structured database of links extracted from GitHub “awesome lists”.
 
+e.g. https://github.com/sindresorhus/awesome
+
 # Overview
 
 This project collects, parses, and organizes links from various GitHub awesome lists into a single, reusable database.
