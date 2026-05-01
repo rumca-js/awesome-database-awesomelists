@@ -37,3 +37,40 @@ Then access http://127.0.0.1:8000/search.html
 poetry run python dataanalyzer.py --db table.db --search "link=*github*" --title --tags
 ```
 Remember to correctly specify db table name
+
+#
+
+```
+Table: applogging, Row count: 2000
+Table: backgroundjob, Row count: 6
+Table: backgroundjobhistory, Row count: 1
+Table: blockentrylist, Row count: 0
+Table: browser, Row count: 16
+Table: compactedtags, Row count: 271
+Table: configurationentry, Row count: 1
+Table: credentials, Row count: 0
+Table: dataexport, Row count: 0
+Table: domains, Row count: 0
+Table: entrycompactedtags, Row count: 2453
+Table: entryrules, Row count: 0
+Table: gateway, Row count: 64
+Table: linkdatamodel, Row count: 33606
+Table: modelfiles, Row count: 0
+Table: readlater, Row count: 0
+Table: searchview, Row count: 10
+Table: socialdata, Row count: 33572
+Table: sourcecategories, Row count: 2
+Table: sourcedatamodel, Row count: 58
+Table: sourceoperationaldata, Row count: 58
+Table: sourcesubcategories, Row count: 45
+Table: user, Row count: 5
+Table: userbookmarks, Row count: 4340
+Table: usercomments, Row count: 0
+Table: usercompactedtags, Row count: 271
+Table: userconfig, Row count: 3
+Table: userentrytransitionhistory, Row count: 6965
+Table: userentryvisithistory, Row count: 3358
+Table: usersearchhistory, Row count: 0
+Table: usertags, Row count: 3848
+Table: uservotes, Row count: 2135
+```
