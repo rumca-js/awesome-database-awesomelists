@@ -74,3 +74,10 @@ Table: usersearchhistory, Row count: 0
 Table: usertags, Row count: 3848
 Table: uservotes, Row count: 2135
 ```
+
+# awesome databases
+
+ - https://github.com/rumca-js/awesome-database-awesomelists
+ - https://github.com/rumca-js/awesome-database-top
+ - https://github.com/rumca-js/awesome-database-feeds
+ - https://github.com/rumca-js/Internet-Places-Database
